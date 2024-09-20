@@ -1,0 +1,8 @@
+{
+  "name": "rp-s4",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "",
+  "prefix": "-",
+  "db" : ""
+}
